@@ -47,5 +47,3 @@ function addStyleResource(rule) {
         ]
     })
 }
-
-//我只是想创建一个请求，没别的意思，一帆风顺
